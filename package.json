@@ -1,0 +1,22 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ysd-mineshima/sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ysd-mineshima/sample/issues"
+  },
+  "homepage": "https://github.com/ysd-mineshima/sample#readme",
+  "dependencies": {
+    "gulp": "^4.0.0"
+  }
+}
